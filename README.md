@@ -16,18 +16,27 @@
   🏆 University Rank Holder - Bharathidasan University
 </p>
 
+
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/kiruthika-r-903525246/">
-    LinkedIn
-  </a> |
-  <a href="https://portfolioKiruthi.onrender.com">
-    Portfolio
-  </a> |
+  <img src="https://img.shields.io/badge/Profile%20Views-778-8A2BE2?style=for-the-badge" />
+</p>
+
+
+
+
+<p align="center">
   <a href="mailto:priyakiruthi21@gmail.com">
-    Email
-  </a> |
+    <img src="https://img.shields.io/badge/GMAIL-PRIYAKIRUTHI21%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kiruthika-r-903525246/">
+    <img src="https://img.shields.io/badge/LINKEDIN-KIRUTHIKA_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/kiruthikadev-r">
-    GitHub
+    <img src="https://img.shields.io/badge/GITHUB-KIRUTHIKADEV--R-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolioKiruthi.onrender.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-KIRUTHIKA-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -161,6 +170,30 @@ I'm a passionate Full Stack Developer with professional experience in developing
 </p>
 
 ---
+
+
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:priyakiruthi21@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-priyakiruthi21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kiruthika-r-903525246/">
+    <img src="https://img.shields.io/badge/LINKEDIN-KIRUTHIKA_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kiruthikadev-r">
+    <img src="https://img.shields.io/badge/GITHUB-KIRUTHIKADEV--R-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolioKiruthi.onrender.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
 
 <p align="center">
   💜 Build. Learn. Create. Contribute.
