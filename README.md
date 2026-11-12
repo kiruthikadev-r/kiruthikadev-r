@@ -197,4 +197,5 @@ I'm a passionate Full Stack Developer with professional experience in developing
 
 <p align="center">
   💜 Build. Learn. Create. Contribute.
+  Passionate about transforming ideas into reliable software solutions that solve real-world challenges.
 </p>
