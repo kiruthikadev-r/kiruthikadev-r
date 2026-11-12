@@ -92,12 +92,14 @@ I'm a passionate Full Stack Developer with professional experience in developing
 
 ## 🚀 Featured Projects
 
-### 1. Chit Fund Accounting System
-**Technologies:** React.js, Node.js, Express.js, SQLite
+- ### 1. Chit Fund Management & Enterprise CRM System
+**Technologies:** React.js, Node.js, Express.js, MongoDB
 
-- Developed financial management modules for receipts, payments and vouchers.
-- Implemented email automation and PDF report generation.
-- Built accounting workflows for financial operations.
+- Developed and maintained an enterprise-level Chit Fund Management System deployed across 28 branches, supporting 200+ employees and 20,000+ subscribers.
+- Built comprehensive financial modules covering receipts, payments, vouchers, ledger management, auctions, subscriber lifecycle and arrears tracking.
+- Developed a CRM module to streamline customer relationship management, lead tracking and business operations.
+- Implemented branch-wise data management, role-based access control and approval workflows to ensure secure and efficient operations.
+- Integrated automated email notifications, PDF report generation, accounting reports and financial reconciliation workflows.
 
 [View Project](https://portfoliokiruthi.onrender.com/projects/svcf-case-study)
 
